@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+looks.db
+looks.db-wal
+looks.db-shm
